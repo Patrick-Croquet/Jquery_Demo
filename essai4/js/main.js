@@ -15,6 +15,7 @@ $(function(){    //$() un alias de jQuery()
                 $('#unediv').css({backgroundColor:'pink'});
             });
 
+            //$('#para1').text("Je change le texte");
             //document.getElementById("para1").innerHTML="Je change le texte";
             //$('#para1').css({color:'green'});
             //document.getElementById("para1").style.color="red"; // code Javascript pur
