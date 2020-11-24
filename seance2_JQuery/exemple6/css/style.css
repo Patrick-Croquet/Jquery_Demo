@@ -1,0 +1,19 @@
+/* CSS Document */ 
+p {  
+    width: 500px;
+    height: 300px;
+    color: black;
+    background: red;
+    padding: 20px;
+    border-radius: 20px;  
+  } 
+
+  .vert {
+    color: white;
+    background: green;
+  }
+
+  .rouge {
+    color: black;
+    background: red;
+  }  
