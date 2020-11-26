@@ -1,5 +1,5 @@
 $("button").click(function() {
-    $("div:animated").toggleClass("colored ");
+    $("div:animated").toggleClass("colored");
     //$(".divAnime").slideToggle(5000);
 });
 
