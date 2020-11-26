@@ -1,0 +1,18 @@
+/* CSS Document */
+button {
+    display: block;
+    margin: 20px 0 0 0;
+}
+
+div {
+    background: #B0E0E6;
+    border: 1px solid #e30ae8;
+    width: 20px;
+    height: 30px;
+    margin: 0 5px;
+    float: left;
+}
+
+.colored {
+    background: #000000;
+}

@@ -1,0 +1,9 @@
+/* CSS Document */
+div {
+    position: absolute;
+    background-color: #B0E0E6;
+    left: 40px;
+    width: 80px;
+    height: 80px;
+    margin: 25px;
+}
