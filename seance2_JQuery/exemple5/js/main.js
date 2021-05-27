@@ -1,15 +1,18 @@
+for(let i=0;i<3;i++){
 $("p").animate({
     fontSize: '+=20px'
-}).queue(function() {
+}, 5000).queue(function() {
     $(this).dequeue(); //dequeue() permet de lancer l'animation suivante;
 }).animate({
     fontSize: '-=10px',
     color: 'white',
     backgroundColor: 'green'
-}).queue(function() {
+}, 1000).queue(function() {
     $(this).dequeue();
 }).animate({
     fontSize: '-=10px',
     color: 'blue',
-    backgroundColor: 'pink'
-});    
+    backgroundColor: 'red'
+}, 2000);
+
+}
